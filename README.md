@@ -1,2 +1,2 @@
-# stock_data_analysis
-this repository contain stock data analysis and prediction result.
+# Stock Data Analysis 
+This repository contain stock data analysis and prediction result.
